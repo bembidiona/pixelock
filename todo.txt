@@ -1,0 +1,2 @@
+- PAGE_UP y PAGE_DOWN no andan online
+- hacer un "loading" o "processing" screen
